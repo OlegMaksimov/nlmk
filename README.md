@@ -1,6 +1,9 @@
 # Read Me First
 НЛМК Заглушка ИС Транспорт
-SPRINGBOOT + WEB MVC + LOMBOK + ASPECTJ
+* SPRINGBOOT
+* WEB MVC
+* LOMBOK
+* ASPECTJ
 
 # RUN Application
 java -jar nlmk.jar
@@ -13,9 +16,9 @@ java -jar nlmk.jar
 url: GET: /road-availability/mock
 Порядок заполнения
 
-*roadCode
-*roadName
-*roadAvailable
+* roadCode
+* roadName
+* roadAvailable
 
 ### Поток №2 PreBooking
 url: GET: /prebooking/mock
