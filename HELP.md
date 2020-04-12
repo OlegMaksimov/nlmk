@@ -1,5 +1,6 @@
 # Read Me First
 НЛМК Заглушка ИС Транспорт
+SPRINGBOOT + WEB MVC + LOMBOK + ASPECTJ
 
 # RUN Application
 java -jar nlmk.jar
